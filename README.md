@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mandy Rayleh
+# Mandy Ralyeh
 
 > *“Dance! Dance like you've never danced before.”*
 
@@ -17,14 +17,19 @@
 
 ---
 
-### 🌿 What I'm tinker with
+### 🌿 What I'm tinkering with
 
 No labels, no rigid tech stacks. Just exploring things that spark joy and creating tools that solve actual annoyances:
 
-- 📖 **[weread-auto-reader](https://github.com/MandyWednesday/weread-auto-reader)**  
+- 📖 **[weread-auto-reader](https://github.com/MandyRalyeh/weread-auto-reader)**  
   微信读书网页版后台无感自动翻页助手。五重视口几何物理核验杜绝误判，毫秒级绝对时钟对齐，全书库无限循环挂机。
-  [![GitHub stars](https://img.shields.io/github/stars/MandyWednesday/weread-auto-reader?style=flat-square&color=blue)](https://github.com/MandyWednesday/weread-auto-reader)
+  [![GitHub stars](https://img.shields.io/github/stars/MandyRalyeh/weread-auto-reader?style=flat-square&color=blue)](https://github.com/MandyRalyeh/weread-auto-reader)
   [![Greasy Fork](https://img.shields.io/badge/Greasy%20Fork-安装脚本-red?style=flat-square)](https://greasyfork.org/zh-CN/scripts/600765-%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88-%E5%90%8E%E5%8F%B0%E6%97%A0%E6%84%9F%E8%87%AA%E5%8A%A8%E7%BF%BB%E9%A1%B5%E5%88%B7%E6%97%B6%E9%95%BF)
+
+- 📜 **[antigravity-medieval-arcane](https://github.com/MandyRalyeh/antigravity-medieval-arcane)**  
+  Google Antigravity 沉浸式中世纪秘术羊皮纸奇幻主题与 Three.js 动态星尘引擎。基于 CDP 运行时非侵入热注入，零二进制魔改。  
+  [![GitHub stars](https://img.shields.io/github/stars/MandyRalyeh/antigravity-medieval-arcane?style=flat-square&color=gold)](https://github.com/MandyRalyeh/antigravity-medieval-arcane)
+  [![Version](https://img.shields.io/badge/version-v14.0.0-amber?style=flat-square)](https://github.com/MandyRalyeh/antigravity-medieval-arcane/releases)
 
 ---
 
